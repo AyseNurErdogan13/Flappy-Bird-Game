@@ -11,7 +11,7 @@ To get started, clone this repository:
 ```
 bash
 Copy code
-git clone https://github.com/AyseNurErdogan13/flappy-bird-csharp.git
+git clone https://github.com/AyseNurErdogan13/flappy-bird-game.git
 ```
 ## Prerequisites
 
